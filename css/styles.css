@@ -1,1 +1,49 @@
+body {
 
+}
+h3 {
+  font-style: italic;
+  font-family: sans-serif;
+}
+html {
+  background-color: #f1f1f1;
+  background: url("../img/background.jpg") no-repeat center center fixed;
+  background-size: auto;
+}
+p {
+  background-color: #f1f1f1;
+  border-radius: 25px;
+  padding: 10px;
+}
+.short {
+  margin-right: 75%;
+}
+.signature {
+  padding: -30px;
+  margin-right: 85%;
+  margin-top: -20px;
+}
+.menu {
+  background-color: #f1f1f1;
+  border-radius: 15px;
+  padding: 10px;
+  margin-right: 85%;
+}
+.block {
+  background-color: #f1f1f1;
+  border-radius: 25px;
+  padding: 0px;
+}
+ul {
+  background-color: #f1f1f1;
+  border-radius: 15px;
+  padding: 20px;
+}
+ol {
+  background-color: #f1f1f1;
+  border-radius: 15px;
+  padding: 20px;
+}
+img {
+  border: 2px solid #f1f1f1;
+}
